@@ -1,4 +1,4 @@
-# 🛢️ Digital Store API - Projeto Backend
+# Digital Store API - Projeto Backend
 
 Uma API RESTful completa para e-commerce desenvolvida como projeto final do Projeto Backend do curso Desenvolvedor Web Full Stack da Geração Tech do Instituto Euvaldo Lodi (IEL). A aplicação oferece uma solução robusta para gerenciamento de produtos, usuários, categorias e sistema de autenticação para lojas virtuais.
 
