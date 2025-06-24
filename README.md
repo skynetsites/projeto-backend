@@ -104,7 +104,6 @@ A API utiliza o prefixo /v1 para versionamento das rotas.
 | `PUT`    | `/product/:id`         | Atualizar produto                    | ✔️ Sim          |
 | `DELETE` | `/product/:id`         | Deletar produto                      | ✔️ Sim          |
 
-> 📝 **Nota:** Esta é uma visão resumida. Consulte a documentação completa em `src/routes` para todos os endpoints disponíveis.
 
 ## 🚀 Configuração e Execução
 
