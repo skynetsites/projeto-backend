@@ -86,21 +86,21 @@ A API utiliza o prefixo /v1 para versionamento das rotas.
 
 | Método   | Endpoint               | Descrição                            | 🔒 Autenticação |
 | -------- | ---------------------- | ------------------------------------ | --------------- |
-| `POST`   | `/user`                | Cadastro de novo usuário             | ❌ Não          |
 | `POST`   | `/user/token`          | Autenticação e geração de token JWT  | ❌ Não          |
 | `GET`    | `/user/:id`            | Consulta usuário por ID              | ❌ Não          |
+| `POST`   | `/user`                | Cadastro de novo usuário             | ❌ Não          |
 | `PUT`    | `/user/:id`            | Atualização dos dados do usuário     | ✔️ Sim          |
 | `DELETE` | `/user/:id`            | Deletar usuário                      | ✔️ Sim          |
-| `POST`   | `/category`            | Cadastro de nova categoria           | ✔️ Sim          |
 | `GET`    | `/category/search`     | Listagem de categorias com filtros   | ❌ Não          |
 | `GET`    | `/category/slug/:slug` | Consulta de categoria por slug       | ❌ Não          |
 | `GET`    | `/category/:id`        | Consulta de categoria por ID         | ❌ Não          |
+| `POST`   | `/category`            | Cadastro de nova categoria           | ✔️ Sim          |
 | `PUT`    | `/category/:id`        | Atualizar dados da categoria         | ✔️ Sim          |
 | `DELETE` | `/category/:id`        | Deletar categoria                    | ✔️ Sim          |
-| `POST`   | `/product`             | Cadastro de produto completo         | ✔️ Sim          |
 | `GET`    | `/product/search`      | Busca avançada de produtos           | ❌ Não          |
 | `GET`    | `/product/slug/:slug`  | Consulta de produto por slug         | ❌ Não          |
 | `GET`    | `/product/:id`         | Consulta de produto por ID           | ❌ Não          |
+| `POST`   | `/product`             | Cadastro de produto completo         | ✔️ Sim          |
 | `PUT`    | `/product/:id`         | Atualizar produto                    | ✔️ Sim          |
 | `DELETE` | `/product/:id`         | Deletar produto                      | ✔️ Sim          |
 
