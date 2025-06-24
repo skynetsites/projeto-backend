@@ -204,7 +204,6 @@ Este projeto é desenvolvido exclusivamente para fins educacionais como parte do
 ## 👨‍💻 Autor
 
 **Desenvolvido por:** Isaias Oliveira<br>
-**Instituição:** Geração Tech | Instituto Euvaldo Lodi (IEL)<br>
 **Curso:** Desenvolvedor Web Full Stack<br>
 **Período:** 3 meses e 192 horas/aula<br>
 **Créditos:** Projeto Geração Tech – Instituto Euvaldo Lodi (IEL)<br> 
