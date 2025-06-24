@@ -1,0 +1,10 @@
+// Importação do path
+const path = require('path');
+
+module.exports = {
+  'config': path.resolve('src', 'config', 'config.js'), // Caminho para o arquivo de configuração
+  'models-path': path.resolve('src', 'models'),         // Caminho para os modelos Sequelize
+  'migrations-path': path.resolve('src', 'migrations'), // Caminho para as migrations
+  'seeders-path': path.resolve('src', 'seeders')        // Caminho para os seeders
+};
+

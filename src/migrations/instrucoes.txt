@@ -1,0 +1,16 @@
+
+Como usar as Migrations
+
+1. Instalação do Sequelize CLI
+
+Para facilitar a criação e execução das migrações, instale o Sequelize CLI como dependência de desenvolvimento do projeto:
+
+npm install --save-dev sequelize-cli
+
+2. Rodando as migrações
+
+Execute o comando abaixo para aplicar todas das migrações e criar as tabelas no banco de dados conforme definidas:
+
+npx sequelize-cli db:migratebash
+
+OBS.: Este comando cria e atualiza as tabelas no banco conforme as definições nas migrações, deixando o banco pronto para uso.

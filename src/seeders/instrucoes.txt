@@ -1,0 +1,15 @@
+1. Como Rodar os Seeders
+
+Quer deixar o banco de dados com dados de exemplo, rodar esse comando no terminal:
+
+npx sequelize-cli db:seed:all
+
+OBS.: Este comando irá executar todos os arquivos de seeders na ordem correta, inserindo os dados nas tabelas correspondentes.
+
+2. Como Desfazer os Seeders
+
+Se você precisar desfazer e apagar os dados, é só rodar esse comando no terminal:
+
+npx sequelize-cli db:seed:undo:all
+
+OBS.: Isso vai desfazer todas as operações feitas pelos seeders, limpando as tabelas afetadas.

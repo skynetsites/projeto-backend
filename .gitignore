@@ -1,0 +1,37 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+coverage/
+
+# dotenv
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+log/
+
+# Uploads e arquivos temporários
+src/assets/images/
+coverage/tmp/
+*.tmp
+
+# Banco de dados
+*.sql
+
+# Testes
+coverage/
+jest-html-reporters-*.html
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
