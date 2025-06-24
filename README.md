@@ -8,7 +8,7 @@ Este projeto implementa uma API completa para e-commerce que demonstra domínio 
 
 **Repositório de referência:** [https://github.com/digitalcollegebr/projeto-backend](https://github.com/digitalcollegebr/projeto-backend)
 
-## 🛠️ Tecnologias que usada no projeto
+## 🛠️ Tecnologias usadas no Projeto
 
 O projeto foi desenvolvido com um conjunto de tecnologias modernas do JavaScript, garantindo eficiência, segurança e facilidade na manutenção:
 
