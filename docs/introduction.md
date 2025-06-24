@@ -3,7 +3,9 @@
 Bem-vindo à documentação oficial da API Backend.
 
 ## 🚀 Descrição
-Este projeto é uma API RESTful construída com Node.js, Express e Sequelize (MySQL) para gerenciar usuários, categorias, produtos, imagens e opções de produtos. Possui autenticação JWT para segurança nas rotas protegidas.
+Este projeto implementa uma API completa para e-commerce que demonstra domínio em desenvolvimento backend moderno, incluindo operações CRUD, autenticação segura, modelagem de dados e arquitetura escalável. A Digital Store API serve como base para qualquer aplicação de comércio eletrônico, fornecendo todos os recursos essenciais para gestão de produtos e usuários.
+
+**Repositório de referência:** [https://github.com/digitalcollegebr/projeto-backend](https://github.com/digitalcollegebr/projeto-backend)
 
 ## 👨‍💻 Autor
 
