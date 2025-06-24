@@ -80,7 +80,7 @@ O projeto foi desenvolvido com um conjunto de tecnologias modernas do JavaScript
 - Servidor Express otimizado para alta performance
 - Testes automatizados abrangentes
 
-## 🌐 Endpoints Principais da AP
+## 🌐 Endpoints da API
 
 A API utiliza o prefixo /v1 para versionamento das rotas.
 
