@@ -16,13 +16,9 @@ logs/
 *.log
 log/
 
-# Uploads e arquivos temporários
-src/assets/images/
+# Arquivos temporários
 coverage/tmp/
 *.tmp
-
-# Banco de dados
-*.sql
 
 # Testes
 coverage/
