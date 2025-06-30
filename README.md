@@ -170,7 +170,6 @@ project-root/
 │   ├── routes/                  # Definição das rotas
 │   ├── seeders/                 # Dados iniciais para o banco
 │   ├── services/                # Serviços auxiliares (JWT, Upload)
-│   ├── sql/                     # Banco de dados MySQL
 │   ├── app.js                   # Instância do Express
 │   └── server.js                # Inicialização do servidor
 ├── .env                         # Variáveis de ambiente
