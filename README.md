@@ -161,7 +161,6 @@ project-root/
 ├── docs/                        # Documentação da API
 ├── src/                         # Diretório principal da API 
 │   ├── __tests__/               # Testes automatizados
-│   ├── assets/images/           # Imagens dos produtos
 │   ├── config/                  # Configurações do Sequelize e DB
 │   ├── controllers/             # Lógica dos endpoints
 │   ├── middleware/              # Middlewares (auth, erros)
